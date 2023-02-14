@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+	<head>
+<title>National Youth Service</title>
+	</head>
+<style>
+body{
+    background-color: brown;
+    display: block;
+    text-align: center;
+    color: blanchedalmond;
+}
+h1{
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+
+}
+h3{
+    font-weight: bold;
+
+}
+.hesc{
+    font-weight: 700;
+}
+
+img
+{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+    height: 70%;
+}
+.sub{
+    background-color: blueviolet;
+    font-weight: bold;
+}
+.sign{
+    background-color: gold;
+    font-weight: bolder;
+}
+</style>
+	<body>
+	<h1>National youth service ibs</h1>
+<img src="downloadi.jpeg" alt="an image of kamiti prison"/> 
+	<h2> ruaraka campus</h2>
+	<hr/>
+<h3>diploma courses</h3>
+<p>dip ict <br/> dip bm <br/> dip scm <br/> dip in sec <br/> </p>
+<hr/>
+<h4 class="hesc">certicates courses</h4>
+<p> cert in bm <br/> cert in scm <br/> cert in smkt <br/> cert in sec <br/> </p>
+<hr/>
+<h5>welcome to ibs</h5>
+<button class="sub" type="submit" >submit</button> <br>
+<hr/>
+<button class="sign" type="button">signin</button>
+
+	</body>
+
+
+
+
+
+</html>
