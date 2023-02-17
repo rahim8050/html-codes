@@ -55,6 +55,8 @@ img
 <button class="sub" type="submit" >submit</button> <br>
 <hr/>
 <button class="sign" type="button">signin</button>
+<marquee behavior="left">
+    welcome to the college of excellence
 
 	</body>
 
